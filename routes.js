@@ -10,12 +10,10 @@ function express(){
 
 */
 
-const conn = new Sequelize();
-
 
 /*
 function Sequelize(){
- //....
+ // adding something here from my local branch
 }
 
 */
