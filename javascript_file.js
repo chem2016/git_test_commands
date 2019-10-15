@@ -30,3 +30,6 @@ console.log(fido.hasOwnProperty('bark'))
 /*
  fido.bark() --> look at fido's prototype ? bark() under fido's prototype : go against the prototype chain Dog class, 
 */
+
+
+## commmit 1
