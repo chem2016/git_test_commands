@@ -39,3 +39,7 @@ git log:                           origin (master)
 | commit 3                         commit 3
 | commit 4                         commit 4
 | commit 5' (asdfiwerd123) -push   commit 5'
+
+
+
+git fetch + git merge = git pull
