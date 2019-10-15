@@ -34,4 +34,6 @@ console.log(fido.hasOwnProperty('bark'))
 
 ## commit 1
 
+cosole.log('my commit 1 is going to be pushed!')
+
 ## commit 2
